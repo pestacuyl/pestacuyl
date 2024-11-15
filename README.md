@@ -1,46 +1,80 @@
-# Pedro Carlos Antonio Estacuy López
 
-### Acerca de mí
-Hola, soy Pedro Carlos Antonio Estacuy López, un apasionado de la tecnología con amplia experiencia en **Seguridad Informatica**, **infraestructura**, **desarrollo de software** y **producción**. Me especializo en soluciones que optimizan tanto el desarrollo como el rendimiento de aplicaciones complejas. Mi enfoque está en ofrecer proyectos eficientes y sostenibles, aplicando siempre las mejores prácticas en ingeniería de software y metodologías de desarrollo ágil.
+---
 
-### Experiencia y Áreas de Especialización
-- **Seguridad Informatica:** Especializado en gestion de seguridad, analisis de riesgos, vulnerabilidades.
-- **Desarrollo de software:** Especializado en ASP.NET, .NET Core, APIs RESTful y Angular.
-- **Infraestructura:** Configuración y manejo de entornos de servidores, uso avanzado de Docker para la orquestación de contenedores, y manejo de bases de datos Oracle y MySQL.
-- **Gestión de proyectos técnicos:** Implementación de metodologías ágiles para equipos de desarrollo, optimización de recursos, y liderazgo en la entrega de soluciones tecnológicas.
+# Pedro Carlos Antonio Estacuy López  
 
-### Proyectos Destacados
-<!-- - **CodaisCart** - Una plataforma de comercio electrónico desarrollada con Node.js, Express y MongoDB, diseñada para brindar una experiencia de usuario intuitiva y una arquitectura escalable.-->
-- **Sistema de RRHH** - Sistema en CakeJS con integraciones de bases de datos en SQL, utilizado para la gestión y el análisis de contratos de personal.
-- **Control de egresos e ingresos** - Sistema en PHP, HTML, JavaScript, CSS con integraciones de bases de datos en MySQL, utilizado para la gestión y el análisis del control de personal en tiempo real.
-- **Verificación y Seguimiento de Encuestas** - Sistema en Angular y ASP.NET Core con integraciones de bases de datos en Oracle, utilizado para la gestión y el análisis de encuestas en tiempo real.
-<!-- - **Monitorización y Manejo de Errores con Exceptionless** - Implementación de Exceptionless en un sistema de encuestas para capturar y analizar errores de manera eficiente, mejorando la estabilidad de la aplicación.-->
+## 👋 Acerca de mí  
+Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología, con amplia experiencia en **seguridad informática**, **infraestructura**, **desarrollo de software** y **producción**. Mi enfoque profesional se centra en el diseño, desarrollo e implementación de soluciones tecnológicas que optimizan el rendimiento y aseguran la calidad. Siempre busco aplicar metodologías ágiles y estándares internacionales para garantizar la excelencia en cada proyecto.  
 
-### Habilidades Técnicas
-- **Lenguajes de Programación:** C#, JavaScript, SQL, PHP, Java, 
-- **Frameworks:** .NET Core, ASP.NET, Angular, AngularJS, Node.js, Express, Laravel, Cakejs
-- **Bases de Datos:** Oracle, MongoDB, MySQL, SQL
-- **Herramientas y Tecnologías:** Docker, Git, Exceptionless, TOAD, PrimeNG, Bootstrap
+---
 
-### Contacto
-- **Correo:** [antonio.estacuy@codais.com](mailto:antonio.estacuy@codais.com)
-- **LinkedIn:** [linkedin.com/in/pestacuy](https://www.linkedin.com/in/pestacuy) *(personalizar el enlace)*
-- **GitHub:** [github.com/pestacuy](https://github.com/pestacuy)
+## 🏆 Experiencia Profesional  
+### Posiciones Actuales  
+- **Asesor Profesional Especializado I** - MINFIN *(2023 - Actual)*  
+- **Cofundador y Desarrollador de Software** - CODAIS Technologies *(2023 - Actual)*  
 
-Siempre estoy en busca de colaborar en proyectos innovadores y de alto impacto. Si tienes alguna idea en la que podamos trabajar juntos, ¡contáctame!
+### Experiencia Anterior  
+- **Desarrollador de Software** - Grupodent *(2023 - 2024)*  
+- **Desarrollador de Software** - Farmacias Galeno *(2023)*  
+- **Desarrollador de Software, QA y Analista de Datos** - Instituto Nacional de Estadística *(2021 - 2023)*  
+- **Desarrollador de Software** - Secretaría Presidencial de la Mujer *(2022)*  
+- **Desarrollador de Software y Seguridad Informática** - CARI Latinoamérica & Colplex *(2019 - 2020)*  
+- **Soporte Técnico y Seguridad Informática** - CORMED S.A. *(2015 - 2018)*  
 
+---
 
-<!--
-**pestacuyl/pestacuyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Proyectos Destacados  
+- **Sistema de Verificación y Seguimiento de Encuestas:**  
+  Plataforma en **Angular** y **ASP.NET Core**, con base de datos en Oracle, diseñada para la gestión en tiempo real de encuestas y reportes estadísticos.  
+- **Sistema de RRHH:**  
+  Solución basada en **CakePHP** para la administración de personal y contratos laborales, integrada con bases de datos SQL.  
+- **Control de Egresos e Ingresos:**  
+  Aplicación en **PHP** y **MySQL** para la supervisión financiera de personal en tiempo real.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Habilidades Técnicas  
+- **Lenguajes de Programación:**  
+  C#, JavaScript, SQL, PHP, Java, TypeScript, Node.js, HTML5  
+- **Frameworks y Librerías:**  
+  .NET Core, ASP.NET, Angular, Laravel, CakePHP, Ionic, React  
+- **Bases de Datos:**  
+  Oracle, MySQL, MongoDB, SQL Server  
+- **Herramientas y Tecnologías:**  
+  Docker, Hyper-V, VMware, TOAD, PowerBI, SPSS, R  
+- **Certificaciones:**  
+  - SCRUM SFPC  
+  - ISO 27001 Lead Auditor  
+  - ISO 27001 Internal Auditor  
+
+---
+
+## 📚 Educación y Certificaciones  
+- **Magíster Artium en Seguridad Informática** (Distinción Cum Laude)  
+- **Ingeniero en Sistemas de Información y Ciencias de la Computación**  
+- **PEM en Ciencias Sociales y Formación Ciudadana**  
+- Cursos avanzados en Bioingeniería y Medicina  
+
+---
+
+## 🌟 Áreas de Especialización  
+- **Seguridad Informática:**  
+  Auditorías bajo estándares **ISO 27001**, análisis de riesgos y pruebas de seguridad.  
+- **Desarrollo de Software:**  
+  Experiencia con APIs RESTful, optimización de backend y diseño frontend.  
+- **Gestión de Proyectos:**  
+  Implementación de metodologías ágiles como **SCRUM**, **RUP**, y **XP**.  
+- **Análisis de Datos y Virtualización:**  
+  Uso avanzado de herramientas como PowerBI, SPSS y tecnologías de virtualización con Docker y VMware.  
+
+---
+
+## 📫 Contacto  
+- **Correo Electrónico:** [antonio.estacuy@codais.com](mailto:antonio.estacuy@codais.com)  
+- **LinkedIn:** [linkedin.com/in/pestacuy](https://www.linkedin.com/in/pestacuy)  
+- **GitHub:** [github.com/pestacuy](https://github.com/pestacuy)  
+
+### ⚡ Nota:  
+Siempre estoy interesado en proyectos innovadores y colaboraciones con impacto. ¡Contáctame si tienes una idea interesante!  
+
+--- 
