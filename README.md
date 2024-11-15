@@ -15,8 +15,9 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 
 ### Experiencia Anterior  
 - **Desarrollador de Software** - Grupodent *(2023 - 2024)*  
-- **Desarrollador de Software** - Farmacias Galeno *(2023)*  
-- **Desarrollador de Software, Infraestructura, QA, Analista de Datos y Seguridad Informática** - Instituto Nacional de Estadística *(2021 - 2023)*  
+- **Desarrollador de Software** - Farmacias Galeno *(2023)*
+- **Analista de Datos** - Instituto Nacional de Estadística *(2021 - 2021)*
+- **Desarrollador de Software, Infraestructura, QA y Seguridad Informática** - Instituto Nacional de Estadística *(2021 - 2023)*
 - **Desarrollador de Software** - Secretaría Presidencial de la Mujer *(2022)*  
 - **Desarrollador de Software** - CARI Latinoamérica & Colplex *(2019 - 2020)*  
 - **Soporte Técnico y Seguridad Informática** - CORMED S.A. *(2015 - 2018)*  
