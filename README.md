@@ -30,7 +30,9 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 - **Sistema de RRHH:**  
   Solución basada en **CakePHP** para la administración de personal y contratos laborales, integrada con bases de datos SQL.  
 - **Control de Egresos e Ingresos:**  
-  Aplicación en **PHP** y **MySQL** para la supervisión financiera de personal en tiempo real.  
+  Aplicación en **PHP** y **MySQL** para la supervisión financiera de personal en tiempo real.
+- **Sistema de Gimnasios:**  
+  Plataforma en **Angular** y **PHP Laravel**, con base de datos en Oracle, diseñada para la gestión en tiempo real de usuarios, membresias y reportes estadísticos.
 
 ---
 
@@ -42,11 +44,7 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 - **Bases de Datos:**  
   Oracle, MySQL, MongoDB, SQL Server  
 - **Herramientas y Tecnologías:**  
-  Docker, Hyper-V, VMware, TOAD, PowerBI, SPSS, R  
-- **Certificaciones:**  
-  - SCRUM SFPC  
-  - ISO 27001 Lead Auditor  
-  - ISO 27001 Internal Auditor  
+  Docker, Hyper-V, VMware, TOAD, PowerBI, SPSS, R, Visual Code, Visual Studio, Ofimática de microsoft y open Source  
 
 ---
 
@@ -54,8 +52,12 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 - **Magíster Artium en Seguridad Informática** (Distinción Cum Laude)  
 - **Ingeniero en Sistemas de Información y Ciencias de la Computación**  
 - **PEM en Ciencias Sociales y Formación Ciudadana**  
-- Cursos avanzados en Bioingeniería y Medicina  
-
+- Cursos avanzados en Bioingeniería y Medicina
+  
+- **Certificaciones:**  
+  - SCRUM SFPC  
+  - ISO 27001 Lead Auditor  
+  - ISO 27001 Internal Auditor  
 ---
 
 ## 🌟 Áreas de Especialización  
