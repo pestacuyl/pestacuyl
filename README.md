@@ -81,3 +81,8 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 Siempre estoy interesado en proyectos innovadores y colaboraciones con impacto. ¡Contáctame si tienes una idea interesante!  
 
 --- 
+
+## 📸 En Acción
+![Presentación sobre análisis de seguridad](Foto.jfif)
+
+*Presentando el análisis de seguridad de un software interinstitucional. Mi enfoque principal es garantizar que las aplicaciones sean robustas, seguras y cumplan con los estándares más altos de calidad.*
