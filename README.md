@@ -13,7 +13,7 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 - **Asesor Profesional Especializado I** - MINFIN *(2023 - Actual)*  
 - **Cofundador y Desarrollador de Software** - CODAIS Technologies *(2023 - Actual)*  
 
-##  Experiencia SISO
+##  Experiencia CISO
 - **Seguridad Informática** - Instituto Nacional de Estadística *(2021 - 2023)*
 - **Soporte Técnico y Seguridad Informática** - CORMED S.A. *(2015 - 2018)*
 
