@@ -27,7 +27,7 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 - **Desarrollador de Software** - Secretaría Presidencial de la Mujer *(2022)*  
 - **Desarrollador de Software** - CARI Latinoamérica & Colplex *(2019 - 2020)*  
 
-##  Experiencia Educativa
+##  Experiencia Docente
 * **Universidad del Valle de Altiplano (2024):** Desarrollo Web.
 * **Escuela Ciencias de la Computación (2021):** Formación en Ciencias de la Computación.
 * **INVO Quetzaltenango (2017):** Práctica supervisada en el ámbito educativo.
