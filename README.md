@@ -13,14 +13,27 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 - **Asesor Profesional Especializado I** - MINFIN *(2023 - Actual)*  
 - **Cofundador y Desarrollador de Software** - CODAIS Technologies *(2023 - Actual)*  
 
-### Experiencia Anterior  
+##  Experiencia SISO
+- **Seguridad Informática** - Instituto Nacional de Estadística *(2021 - 2023)*
+- **Soporte Técnico y Seguridad Informática** - CORMED S.A. *(2015 - 2018)*
+
+##  Experiencia Estadistica
+- **Analista de Datos** - Instituto Nacional de Estadística *(2021 - 2021)*
+
+### Experiencia Desarrollo de Software  
 - **Desarrollador de Software** - Grupodent *(2023 - 2024)*  
 - **Desarrollador de Software** - Farmacias Galeno *(2023)*
-- **Desarrollador de Software, Infraestructura, QA y Seguridad Informática** - Instituto Nacional de Estadística *(2021 - 2023)*
-- **Analista de Datos** - Instituto Nacional de Estadística *(2021 - 2021)*
+- **Desarrollador de Software, QA** - Instituto Nacional de Estadística *(2021 - 2023)*
 - **Desarrollador de Software** - Secretaría Presidencial de la Mujer *(2022)*  
 - **Desarrollador de Software** - CARI Latinoamérica & Colplex *(2019 - 2020)*  
-- **Soporte Técnico y Seguridad Informática** - CORMED S.A. *(2015 - 2018)*  
+
+##  Experiencia Educativa
+* **Universidad del Valle de Altiplano (2024):** Desarrollo Web.
+* **Escuela Ciencias de la Computación (2021):** Formación en Ciencias de la Computación.
+* **INVO Quetzaltenango (2017):** Práctica supervisada en el ámbito educativo.
+* **Normal Sololá (2007-2009):** Laboratorio de Estadística.
+* **ICI Panajachel (2009):** Profesor suplente de Matemáticas e Informática.
+
 
 ---
 
