@@ -138,17 +138,29 @@ Estos proyectos destacan por su enfoque en la solución de problemas específico
 
 ---
 
-## 📫 Contacto  
-- **Correo Electrónico:** [antonio.estacuy@codais.com](mailto:antonio.estacuy@codais.com)  
-- **LinkedIn:** [linkedin.com/in/pestacuy](https://www.linkedin.com/in/pestacuy)  
-- **GitHub:** [github.com/pestacuy](https://github.com/pestacuy)  
+## 🌐 **Conectemos**  
 
-### ⚡ Nota:  
-Siempre estoy interesado en proyectos innovadores y colaboraciones con impacto. ¡Contáctame si tienes una idea interesante!  
+¿Tienes un proyecto innovador o una idea que deseas materializar? ¡Estoy aquí para escucharte!  
+Puedes contactarme a través de cualquiera de los siguientes canales:
 
---- 
+- 📧 **Correo Electrónico:**  
+  [antonio.estacuy@codais.com](mailto:antonio.estacuy@codais.com)  
+
+- 💼 **LinkedIn:**  
+  [Explora mi perfil profesional](https://www.linkedin.com/in/pestacuy)  
+
+- 🖥️ **GitHub:**  
+  [Descubre mis proyectos y colaboraciones](https://github.com/pestacuy)  
+
+✨ **¡Hagamos que las ideas cobren vida!**  
+
+---
 
 ## 📸 En Acción
 ![Presentación sobre análisis de seguridad](Foto.jfif)
 
 *Presentando el análisis de seguridad de un software interinstitucional. Mi enfoque principal es garantizar que las aplicaciones sean robustas, seguras y cumplan con los estándares más altos de calidad.*
+
+
+### ⚡ Nota:  
+Siempre estoy interesado en proyectos innovadores y colaboraciones con impacto. ¡Contáctame si tienes una idea interesante!  
