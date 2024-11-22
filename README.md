@@ -51,13 +51,14 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 
 ## 🔧 Habilidades Técnicas  
 - **Lenguajes de Programación:**  
-  > [x] C#, PHP, Java, JavaScript, TypeScript, Node.js, HTML5, Kotlin, Go, Dart, Python, Ruby, Rust, Perl, Swift, Objective-C
+  >
+  | C#, | PHP, | Java, | JavaScript, | TypeScript, Node.js, HTML5, Kotlin, Go, Dart, Python, Ruby, Rust, Perl, Swift, Objective-C
 - **Frameworks y Librerías:**  
   > [X] .NET Core, ASP.NET, Angular, AngularJS, Laravel, CakePHP, Ionic, React
 - **Bases de Datos:**  
   > [X]  SQL, Oracle, MySQL, MongoDB, PostgreSQL
 - **Herramientas y Tecnologías:**  
-  [x]  Docker, Hyper-V, VMware, TOAD, PowerBI, SPSS, R, Visual Code, Visual Studio, Ofimática de microsoft y Open Source, Eclipse, NetBeans, 
+  >  Docker, Hyper-V, VMware, TOAD, PowerBI, SPSS, R, Visual Code, Visual Studio, Ofimática de microsoft y Open Source, Eclipse, NetBeans, 
 
 ---
 
