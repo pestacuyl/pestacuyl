@@ -12,17 +12,17 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 
 | **Categoría**              | **Posición**                                    | **Institución/Empresa**                     | **Año**             |
 |----------------------------|------------------------------------------------|---------------------------------------------|---------------------|
-| **Posiciones Actuales**    | Asesor Profesional Especializado I             | MINFIN                                      | 2023 - Actual       |
+| # **Posiciones Actuales**    | Asesor Profesional Especializado I             | MINFIN                                      | 2023 - Actual       |
 |                            | Cofundador y Desarrollador de Software          | CODAIS Technologies                         | 2023 - Actual       |
-| **Experiencia CISO**       | Seguridad Informática                           | Instituto Nacional de Estadística           | 2021 - 2023         |
+| # **Experiencia CISO**       | Seguridad Informática                           | Instituto Nacional de Estadística           | 2021 - 2023         |
 |                            | Soporte Técnico y Seguridad Informática         | CORMED S.A.                                 | 2015 - 2018         |
-| **Experiencia Estadística**| Analista de Datos                               | Instituto Nacional de Estadística           | 2021                |
-| **Desarrollo de Software** | Desarrollador de Software                       | Grupodent                                   | 2023 - 2024         |
+| # **Experiencia Estadística**| Analista de Datos                               | Instituto Nacional de Estadística           | 2021                |
+| # **Desarrollo de Software** | Desarrollador de Software                       | Grupodent                                   | 2023 - 2024         |
 |                            | Desarrollador de Software                       | Farmacias Galeno                             | 2023                |
 |                            | Desarrollador de Software, QA                   | Instituto Nacional de Estadística           | 2021 - 2023         |
 |                            | Desarrollador de Software                       | Secretaría Presidencial de la Mujer         | 2022                |
 |                            | Desarrollador de Software                       | CARI Latinoamérica & Colplex                | 2019 - 2020         |
-| **Experiencia Docente**    | Profesor de Desarrollo Web                      | Universidad del Valle de Altiplano          | 2024                |
+| # **Experiencia Docente**    | Profesor de Desarrollo Web                      | Universidad del Valle de Altiplano          | 2024                |
 |                            | Formación en Ciencias de la Computación         | Escuela Ciencias de la Computación          | 2021                |
 |                            | Práctica Supervisada en Educación               | INVO Quetzaltenango                         | 2017                |
 |                            | Laboratorio de Estadística                      | Normal Sololá                                | 2007 - 2009         |
@@ -32,7 +32,7 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 
 ## 💻 Proyectos Destacados  
 - **Sistema de Verificación y Seguimiento de Encuestas:**  
-  Plataforma en **Angular** y **ASP.NET Core**, con base de datos en Oracle, diseñada para la gestión en tiempo real de encuestas y reportes estadísticos.  
+  Plataforma en **Angular** y **ASP.NET Core**, con base de datos en Oracle, diseñada para la gestión en tiempo real de encuestas y reportes estadísticos para mejora de clima laboral.  
 - **Sistema de RRHH:**  
   Solución basada en **CakePHP** para la administración de personal y contratos laborales, integrada con bases de datos SQL.  
 - **Control de Egresos e Ingresos de personal:**  
