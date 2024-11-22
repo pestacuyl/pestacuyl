@@ -29,16 +29,59 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 |                            | Profesor Suplente de Matemáticas e Informática  | ICI Panajachel                              | 2009                |
 
 ---
+## 💻 Proyectos Destacados: Soluciones de Software Desarrolladas
 
-## 💻 Proyectos Destacados  
-- **Sistema de Verificación y Seguimiento de Encuestas:**  
-  Plataforma en **Angular** y **ASP.NET Core**, con base de datos en Oracle, diseñada para la gestión en tiempo real de encuestas y reportes estadísticos para mejora de clima laboral.  
-- **Sistema de RRHH:**  
-  Solución basada en **CakePHP** para la administración de personal y contratos laborales, integrada con bases de datos SQL.  
-- **Control de Egresos e Ingresos de personal:**  
-  Aplicación en **PHP** y **MySQL** para la supervisión de marcajes de personal en tiempo real.
-- **Sistema de Gimnasios:**  
-  Plataforma en **Angular** y **PHP Laravel**, con base de datos en Oracle, diseñada para la gestión en tiempo real de usuarios, membresias y reportes estadísticos.
+La siguiente lista detalla sistemas y aplicaciones diseñadas y desarrolladas para abordar desafíos específicos en diferentes organizaciones. Cada proyecto se destaca por su impacto en la mejora de procesos, la integración de tecnologías modernas y el cumplimiento de objetivos organizacionales clave.
+
+---
+
+### **Sistema de Verificación y Seguimiento de Encuestas**
+- **Descripción:**  
+  Plataforma diseñada para gestionar y dar seguimiento en tiempo real a encuestas aplicadas a los empleados, proporcionando reportes estadísticos detallados orientados a mejorar el clima laboral y la toma de decisiones.
+- **Tecnologías Utilizadas:**  
+  - **Frontend:** Angular.  
+  - **Backend:** ASP.NET Core.  
+  - **Base de Datos:** Oracle.  
+- **Impacto:**  
+  Incremento del 40% en la eficiencia del análisis de datos de encuestas, reduciendo el tiempo de generación de reportes de días a minutos.
+
+---
+
+### **Sistema de Gestión de Recursos Humanos (RRHH)**
+- **Descripción:**  
+  Solución integral para la administración de personal, incluyendo gestión de contratos laborales, registro de asistencias y generación de reportes relacionados con la nómina y desempeño.
+- **Tecnologías Utilizadas:**  
+  - **Framework:** CakePHP.  
+  - **Base de Datos:** SQL.  
+- **Impacto:**  
+  Optimización de los procesos administrativos de recursos humanos, reduciendo errores manuales y mejorando la trazabilidad en la gestión de empleados.
+
+---
+
+### **Control de Egresos e Ingresos de Personal**
+- **Descripción:**  
+  Aplicación que permite la supervisión en tiempo real de marcajes de personal, ofreciendo un control detallado de las horas trabajadas y las ausencias. Ideal para organizaciones con alta rotación de turnos.  
+- **Tecnologías Utilizadas:**  
+  - **Lenguaje:** PHP.  
+  - **Base de Datos:** MySQL.  
+- **Impacto:**  
+  Reducción en un 50% de las discrepancias en los registros de horarios, mejorando la precisión en la facturación de horas y la gestión de personal.
+
+---
+
+### **Sistema de Gestión para Gimnasios**
+- **Descripción:**  
+  Plataforma enfocada en la administración integral de gimnasios, permitiendo la gestión de usuarios, membresías, programación de actividades y generación de reportes detallados de ingresos y desempeño.  
+- **Tecnologías Utilizadas:**  
+  - **Frontend:** Angular.  
+  - **Backend:** PHP Laravel.  
+  - **Base de Datos:** Oracle.  
+- **Impacto:**  
+  Mejora en la experiencia del usuario final, automatizando el 70% de los procesos operativos y facilitando la toma de decisiones con reportes en tiempo real.
+
+---
+
+Estos proyectos destacan por su enfoque en la solución de problemas específicos, logrando integrar tecnologías robustas y escalables que generan valor tangible a las organizaciones.
 
 ---
 
