@@ -57,7 +57,7 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 - **Bases de Datos:**  
   > [X]  SQL, Oracle, MySQL, MongoDB, PostgreSQL
 - **Herramientas y Tecnologías:**  
-  > [x]  Docker, Hyper-V, VMware, TOAD, PowerBI, SPSS, R, Visual Code, Visual Studio, Ofimática de microsoft y Open Source, Eclipse, NetBeans, 
+  [x]  Docker, Hyper-V, VMware, TOAD, PowerBI, SPSS, R, Visual Code, Visual Studio, Ofimática de microsoft y Open Source, Eclipse, NetBeans, 
 
 ---
 
