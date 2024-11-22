@@ -1,7 +1,15 @@
+<head>
+    <!-- Meta Tag para mejorar la visibilidad del perfil -->
+    <meta name="author" content="Pedro Carlos Antonio Estacuy López">
+    <meta name="description" content="Pedro Carlos Antonio Estacuy López, Master en Seguridad Informática, experto en Infraestructura y Desarrollo de Software, apasionado por la tecnología y la innovación.">
+    <meta name="keywords" content="Pedro Estacuy, Master, seguridad informática, infraestructura, desarrollo de software, tecnologías innovadoras">
+    <meta name="robots" content="index, follow">
+</head>
+
 
 ---
 
-# Pedro Carlos Antonio Estacuy López  
+# Pedro Carlos Antonio Estacuy López - Desarrollador de Software
 
 ## 👋 Acerca de mí  
 Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología, con amplia experiencia en **seguridad informática**, **infraestructura**, **desarrollo de software** y **producción**. Mi enfoque profesional se centra en el diseño, desarrollo e implementación de soluciones tecnológicas que optimizan el rendimiento y aseguran la calidad. Siempre busco aplicar metodologías ágiles y estándares internacionales para garantizar la excelencia en cada proyecto.  
