@@ -150,7 +150,14 @@ Puedes contactarme a través de cualquiera de los siguientes canales:
   [Explora mi perfil profesional](https://www.linkedin.com/in/pestacuy)  
 
 - 🖥️ **GitHub:**  
-  [Descubre mis proyectos y colaboraciones](https://github.com/pestacuy)  
+  [Descubre mis proyectos y colaboraciones](https://github.com/pestacuy)
+
+- 📞 **Teléfono:**  
+  🇬🇹 **WhatsApp:** [+502 4742 1309](https://wa.me/50247421309)  
+  📱 **Llamada Directa:** [+502 4742 1309](tel:+50247421309)  
+
+---
+
 
 ✨ **¡Hagamos que las ideas cobren vida!**  
 
