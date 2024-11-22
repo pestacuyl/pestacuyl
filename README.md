@@ -110,14 +110,31 @@ Estos proyectos destacan por su enfoque en la solución de problemas específico
 ---
 
 ## 🌟 Áreas de Especialización  
-- **Seguridad Informática:**  
-  Auditorías bajo estándares **ISO 27001**, análisis de riesgos y pruebas de seguridad.  
-- **Desarrollo de Software:**  
-  Experiencia con APIs RESTful, optimización de backend y diseño frontend.  
-- **Gestión de Proyectos:**  
-  Implementación de metodologías ágiles como **SCRUM**, **RUP**, y **XP**.  
-- **Análisis de Datos y Virtualización:**  
-  Uso avanzado de herramientas como PowerBI, SPSS y tecnologías de virtualización con Docker y VMware.  
+
+### **Seguridad Informática**  
+- Implementación de sistemas bajo los estándares de seguridad **ISO 27001**, asegurando la confidencialidad, integridad y disponibilidad de la información.  
+- Auditorías de seguridad, análisis de riesgos y pruebas de penetración para proteger infraestructuras críticas.  
+- Diseño y ejecución de planes de respuesta ante incidentes y recuperación de desastres.  
+
+### **Desarrollo de Software**  
+- Desarrollo integral de sistemas utilizando tecnologías modernas como **.NET Core**, **Angular**, **Laravel** y **CakePHP**.  
+- Creación de APIs RESTful optimizadas para mejorar la comunicación entre aplicaciones.  
+- Especialización en arquitectura de software escalable y desarrollo de soluciones de alta disponibilidad.  
+
+### **Gestión de Proyectos Tecnológicos**  
+- Liderazgo en proyectos utilizando metodologías ágiles como **SCRUM**, **RUP**, y **XP**.  
+- Gestión efectiva de equipos interdisciplinarios, garantizando la entrega de productos a tiempo y con alta calidad.  
+- Definición de objetivos estratégicos alineados a las necesidades organizacionales y optimización de recursos.  
+
+### **Análisis de Datos y Estadística**  
+- Uso avanzado de herramientas como **PowerBI**, **SPSS**, y lenguajes estadísticos como **R** para obtener insights accionables.  
+- Diseño de tableros interactivos y reportes automatizados que mejoran la toma de decisiones.  
+- Modelado predictivo y análisis avanzado para proyectos de investigación y mejora de procesos.  
+
+### **Virtualización y Entornos en la Nube**  
+- Administración de entornos virtuales con tecnologías como **Docker**, **Hyper-V**, y **VMware**.  
+- Migración e implementación de soluciones en la nube, garantizando alta disponibilidad y seguridad.  
+- Optimización de recursos computacionales mediante contenedores y máquinas virtuales.  
 
 ---
 
