@@ -127,7 +127,7 @@ Estos proyectos destacan por su enfoque en la solución de problemas específico
 - Definición de objetivos estratégicos alineados a las necesidades organizacionales y optimización de recursos.  
 
 ### **Análisis de Datos y Estadística**  
-- Uso avanzado de herramientas como **PowerBI**, **SPSS**, y lenguajes estadísticos como **R** para obtener insights accionables.  
+- Uso avanzado de herramientas como **Excel**, **PowerBI**, **SPSS**, y lenguajes estadísticos como **R** para obtener insights accionables.  
 - Diseño de tableros interactivos y reportes automatizados que mejoran la toma de decisiones.  
 - Modelado predictivo y análisis avanzado para proyectos de investigación y mejora de procesos.  
 
