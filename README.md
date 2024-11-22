@@ -42,8 +42,8 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
   Plataforma en **Angular** y **ASP.NET Core**, con base de datos en Oracle, diseñada para la gestión en tiempo real de encuestas y reportes estadísticos.  
 - **Sistema de RRHH:**  
   Solución basada en **CakePHP** para la administración de personal y contratos laborales, integrada con bases de datos SQL.  
-- **Control de Egresos e Ingresos:**  
-  Aplicación en **PHP** y **MySQL** para la supervisión financiera de personal en tiempo real.
+- **Control de Egresos e Ingresos de personal:**  
+  Aplicación en **PHP** y **MySQL** para la supervisión de marcajes de personal en tiempo real.
 - **Sistema de Gimnasios:**  
   Plataforma en **Angular** y **PHP Laravel**, con base de datos en Oracle, diseñada para la gestión en tiempo real de usuarios, membresias y reportes estadísticos.
 
@@ -51,13 +51,13 @@ Hola, soy **Pedro Carlos Antonio Estacuy López**, apasionado por la tecnología
 
 ## 🔧 Habilidades Técnicas  
 - **Lenguajes de Programación:**  
-  C#, JavaScript, SQL, PHP, Java, TypeScript, Node.js, HTML5  
+  > [!NOTE] C#, PHP, Java, JavaScript, TypeScript, Node.js, HTML5, Kotlin, Go, Dart, Python, Ruby, Rust, Perl
 - **Frameworks y Librerías:**  
-  .NET Core, ASP.NET, Angular, Laravel, CakePHP, Ionic, React  
+  > [!NOTE] .NET Core, ASP.NET, Angular, AngularJS, Laravel, CakePHP, Ionic, React
 - **Bases de Datos:**  
-  Oracle, MySQL, MongoDB, SQL Server  
+  > [!NOTE]  SQL, Oracle, MySQL, MongoDB, PostgreSQL
 - **Herramientas y Tecnologías:**  
-  Docker, Hyper-V, VMware, TOAD, PowerBI, SPSS, R, Visual Code, Visual Studio, Ofimática de microsoft y open Source  
+  > [!NOTE]  Docker, Hyper-V, VMware, TOAD, PowerBI, SPSS, R, Visual Code, Visual Studio, Ofimática de microsoft y Open Source, Eclipse, NetBeans, 
 
 ---
 
